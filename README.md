@@ -1,4 +1,296 @@
 # curriculum-pessoal-
 experiencia comprovada
 
-<p>#moises ferreira de lima 27555115832</p><p>#documentType.CPF="275.551.158-32" ;</p><p>#documentType.CNPJ="35.669.326/0001-90" ;</p><p>#documentType.RG="27.950.938-8" ;</p><p>#documentType.hotmail="moisesfdl_pbt@hotmail.com.br" ;</p><p>#documentType.gmail="moisesprobabilidade@gmail.com" ;</p><p>#documentType.cel="(5512)99649-7466" ;</p><p>#documentType.CTPS='00077646/00150' ;</p><p><br /></p><p>&lt;link rhef="https://www.talentos.globo.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.infojobs.com/candidate/documentType/curriculum/"&gt;</p><p>&lt;link rhef="https://www.neuvoo.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.conquist.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.infojobs.com/vagas/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.catho.com/vagadeemprego/assistente/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.carrefour.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.carrefour.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.galaxy.com/extremo-orient/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.bradesco.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.bb.com/banco-do-brasil/new-york/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.cia.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.gm.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.santander.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.americanas.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.pernambucanas.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.cinemark.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.onu.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.policiacivil.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.ea.com/eletronic-arts/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.microsoft.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.embraer.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.eaton.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.coophodia.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.pm.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.mec.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.empresario.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.executivo.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.lg.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.prosseguir.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.BANCOdoBRASIL.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.itau.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.crefisa.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.riachelo.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.nasa.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.interactivebrokers.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.ubisoft.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.disney.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.aeronautica.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.atento.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.redeglobo.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.cea.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.wbstudiotour.com/warner-bros-studio/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.fox.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.nyse.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.exgamers.com/documentType/curriculum/rh"&gt;</p><p>&lt;link rhef="https://www.mt.gov/ministerio-trabalho/documentType/curriculum/"&gt;</p><p>&gt;&gt;MOISESFERREIRADELIMAcarteira00077646/serie00150</p><p><br /></p><p>disponivel pra sair do brasil;</p><p>curriculum:'usa';</p><p>curriculum:'china';</p><p>curriculum:'russia';</p><p>curriculum:'italia';</p><p>curriculum:'espanha';</p><p>curriculum:'japao';</p><p>curriculum:'europa';</p><p>===================================================================�</p><p>formato:A4</p><p>BORDAS</p><p><br /></p><p>:curriculum_</p><p>eu sou empresario sim (ate o momento nao reconhecido na categoria), e profissional liberal que procura oportunidade</p><p>pra trabalhar ,.</p><p>:_</p><p>&lt;&lt;xmlns::curriculum&gt;&gt;</p><p><span style="white-space: pre;">			</span>***CURRICULUM</p><p>CTPS:'00077646/00150';</p><p>Nª:00077646</p><p>SERIE:00150</p><p>Dados Pessoais</p><p>Nome: moises ferreira de lima</p><p>Data de Nascimento: 14/05/1977&nbsp;</p><p>Sexo: Masculino&nbsp;</p><p>civil: Divorciado</p><p>Endereço:&nbsp;</p><p>Rua: Paturi, 230&nbsp;</p><p>Bairro: Buquirinha II</p><p>Cidade: Sao Jose Campos-SP / Brasil</p><p>CEP: 12214563</p><p>CPF: 275.551.158-32</p><p>RG: 27.950.938-8</p><p>orgao emissor: SSP-SP</p><p>Raça/Cor: branco</p><p>Formas de contato</p><p>Celular: (5512) 99649-7466</p><p>E-mail: moisesfdl_pbt@hotmail.com.br</p><p><br /></p><p>Qualificaçao Profissional</p><p>estoquista&nbsp;</p><p>conferente</p><p>repositor</p><p>precificaçao de loja&nbsp;</p><p>cadastro de codigo de mercadoria&nbsp;</p><p>participante da CIPA&nbsp;</p><p>prevençao e perdas&nbsp;</p><p>digitaçao cartazes&nbsp;</p><p>conhecimento de office e</p><p>Windows</p><p><br /></p><p>Informaçao extra curricular&nbsp;</p><p>diesel</p><p>osran</p><p>haldex,</p><p>Informatica avançada intermediario</p><p>Java</p><p>xml</p><p>html</p><p>sistemas</p><p>Windows</p><p>Idioma: Portugues Fluente</p><p>Idioma: Ingles Intermediario</p><p><br /></p><p><br /></p><p><br /></p><p>Informaçao experiencia profissional</p><p>estoquista</p><p>repositor</p><p>atendimento ao client</p><p>cobrador</p><p>vendedor</p><p>mecanico diesel&nbsp;</p><p>repositor de expediçao</p><p>conferente</p><p>estoquista&nbsp;</p><p>abastecedor</p><p>instalador de cameras&nbsp;</p><p>TTF-tecnico transaçoes de fundos&nbsp;</p><p>TTI- tecnico transaçoes imobiliario</p><p>corretagem da ibovespa e bovespa</p><p><br /></p><p>Informaçao extra curricular preventiva e ajuda</p><p>abrigada</p><p>cipa</p><p>prevençao e perdas&nbsp;</p><p>relaçoes humanas&nbsp;</p><p>atendimento de primeiros socorros&nbsp;</p><p><br /></p><p>Informaçoes Complementares</p><p>Remuneraçao Pretendida:&nbsp;</p><p>2000a5000 mil reais</p><p>$3000 us</p><p>Trabalhando: empreendendo e "disponivel pra trabalho "</p><p>Cargo ou nivel hierarquico: Operacional ou "apto assumir responsabilidade de setor "</p><p><br /></p><p>Area de interesse de estudo avançado</p><p>Principal: Tecnologia da Informaçao</p><p>Observaçoes</p><p>Formaçao Academica</p><p>*Graduaçao maxima: Superior Incompleto</p><p>Instituiçao: Fac. de Tecnologia Ibta - Sao Jose Dos Campos</p><p>Curso:Ciencias da Computaçao&nbsp;</p><p>Superior Incompleto(matricula trancada)</p><p>Data de Inicio: 08/2014&nbsp;</p><p>Data de Conclusao: 10/2015 'incompleto'</p><p>Observaçao: pretendo continuar a estudar e avançar meu conhecimento , apenas isso&nbsp;</p><p><br /></p><p>*Instituiçao: senai</p><p>Curso: Desenho Industrial&nbsp;</p><p>curso: pneumatico e hidraulico</p><p>Nivel Academico: Ensino Tecnico Incompleto</p><p>Data de Inicio: 07/2001&nbsp;</p><p>Data de Conclusao: 11/2002</p><p><br /></p><p>Instituiçao:&nbsp;</p><p>EEPG-joao cursino</p><p>Nivel Academico: Ensino Medio Completo</p><p>Data de Inicio: 01/1992&nbsp;</p><p>Data de Conclusao: 12/1997</p><p>2º grau colegial completo com diploma</p><p>Status: Concluido</p><p>:certificado 2º grau colegial_</p><p>&nbsp; &nbsp; &nbsp; ****certificado</p><p><br /></p><p>O Diretor da E.E.S.G 'JOAO CURSINO'&nbsp;</p><p>de acordo com o artigo 16 da lei nº 5.692/71 certifica que&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;" Moises Ferreira de Lima&nbsp; "&nbsp;&nbsp;</p><p>R.G.:27.950.938-8 , concluiu os estudos do 2º Grau , no ano letivo de 1997 ,&nbsp;</p><p>estando apto ao prosseguimento dos estudos em curso de Nivel Superior&nbsp;</p><p><br /></p><p>SECRETARIA DA ESCOLA</p><p>data : 14/02/1998</p><p><br /></p><p>Secretario Regional ASS: Regina Celia de Azevedo RG:17.059.798</p><p><br /></p><p>Diretor Reg. ou R.G ASS: Setsuko Kotinda Yonashiro RG:5.168.2.18&nbsp;</p><p>,</p><p><br /></p><p>Experiencia Profissional</p><p>Empresa: ATACADAO DISTRI COM IND LTDA</p><p>Segmento: Comercio Atacadista</p><p>Porte da Empresa: Grande (&gt;500 Func.)</p><p>Data de Inicio: 02/2013&nbsp;</p><p>Data de Termino: 05/2015</p><p>Cargo: REPOSITOR E ESTOQUISTA</p><p>Atribuiçoes:&nbsp;</p><p>RELPOSITOR , CONFERENTE , ESTOQUISTA , CONFERENTE DE PRE�OS , ORGANIZA�AO</p><p>DE ESTOQUE , CARTAZISTA , ATENDIMENTO DE LOJA , E AOS DOMINGOS .</p><p>Salario:2225,00</p><p><br /></p><p>Empresa: VIAÇAO REAL</p><p>Segmento: Transporte</p><p>Porte da Empresa: Grande (&gt;500 Func.)</p><p>Data de Inicio: 01/2005&nbsp;</p><p>Data de Termino: 09/2007</p><p>Cargo: MECANICO DE MANUTENÇAO</p><p>Atribuiçoes:&nbsp;</p><p>MECANICO DE MANUTENÇAO , E APOS UM ANO PASSEI PRA COBRADOR COM UM</p><p>AUMENTO DE SALARIO DE R$ 398,00 PARA R$ 911,92MAS BENEFICIOS DE VR</p><p>Relaçao de emprego: Funcionario</p><p>Salario: 911,92</p><p><br /></p><p>Empresa: viacao capital do vale</p><p>Segmento: Turismo</p><p>Porte da Empresa: Grande (&gt;500 Func.)</p><p>Data de Inicio: 01/2004&nbsp;</p><p>Data de Termino: 09/2007</p><p>Cargo: auxiar mecanico</p><p>Atribuiçoes:&nbsp;</p><p>preventiva de mottores , troca de compressor manutencao de catraca HALDEX , PAKER.....</p><p>E TROCA DE CAMBIO DE ONIBUS E CAMINHOES</p><p>Relaçao de emprego: Funcionario</p><p>Salario: 425,00</p><p><br /></p><p><br /></p><p>Empresa: cooper hodia</p><p>Segmento: Comercio Varejista</p><p>Porte da Empresa: Grande (&gt;500 Func.)</p><p>Data de Inicio: 10/1999&nbsp;</p><p>Data de Termino: 06/2001</p><p>Cargo: REPOSITOR</p><p>Atribuiçoes:&nbsp;</p><p>repositor e estoquista e conferencia de estoque e controle de estoque</p><p>Relaçao de emprego:&nbsp;</p><p>Funcionario</p><p>Salario: 353,00</p><p><br /></p><p>Empresa: mappin</p><p>Segmento: Logistica e distribuiçao</p><p>Porte da Empresa:&nbsp;</p><p>Grande (&gt;500 Func.)</p><p>Data de Inicio: 04/1997&nbsp;</p><p>Data de Termino: 07/1999</p><p>Cargo: REPOSITOR E CONFERENTE</p><p>Atribuiçoes:&nbsp;</p><p>organizacao de estoque e reposicao e conferencia</p><p>Relaçao de emprego: Funcion�rio</p><p>Salario: 264,00</p><p><br /></p><p>desenvolvedor de gamer&nbsp;</p><p>'resumindo : jogos resolvidos e finalizados '</p><p>meu exame psicotecnico e psicologico&nbsp;</p><p><br /></p><p>�Commandos &amp; conquer todos</p><p>�Need for speed carbon</p><p>�Need for speed hostpursh</p><p>�Need for speed wanted</p><p>�Need for speed andergraud 1 e 2</p><p>�Pro street 'ZERADO'</p><p>�Bad company 2</p><p>�Tom clancy�s H.A.W.X</p><p>�Tom clancy�s&nbsp; Ghost Recon Future Soldier 'zerado'</p><p>�Comanche I , II , III , IV .</p><p>�Americam truk'tenho uma garagem com quatro carreta'</p><p>�NBAk mobile , nivel avan�ado liga&nbsp;</p><p>�Rival gears sou lider hankei 'zerado' com sete carros&nbsp;&nbsp;</p><p>�Real park 2 zerado stacionamento</p><p>�PES MANAGER CLUB cheguei na liga 'crak'</p><p>�Galaxi on fire �desenvolvendo�</p><p>�Galaxi control 'desenvolvendo '</p><p>�Sim�s 4 'desenvolvendo'</p><p>�CALL DUTY medal honor 'zerado'</p><p>�CALL DUTY black ops&nbsp; &nbsp;'zerado'</p><p>�CALL DUTY modern warfare 'zerado'</p><p>�Rel racing 3 ea gamers garagem 15 milhoes com primeiro serie de nascar concluida</p><p>�MEGAPOLIS NIVEL32 'desenvolvendo'</p><p>�Good fear cheguei na final&nbsp;</p><p>�APP 'math' level 21 ciencia da regra matematica</p><p>�APACHE militar&nbsp; &nbsp;cheguei proximo da final</p><p>�Star craft I&nbsp; &nbsp;'pela empresa da blizzard'</p><p>�Star craft II&nbsp; 'pela empresa blizzard'</p><p>�Granturismo 'playstation I'</p><p>�Ace combat 'playstation I'</p><p>�Commandos Behind Enemy Lines</p><p><br /></p><p>�livros 'que ja li'&nbsp;</p><p>Mem�rias P�stumas de Br�s Cubas</p><p>Machado de Assis</p><p>Iracema&nbsp;</p><p>jose de alencar</p><p>O alienista</p><p>jose de alencar</p><p>Dom casmurro</p><p>machado de assis</p><p>NAO LEVE A VIDA TAO SERIA</p><p>petch</p><p>PAIS BRILHANTES E PROFESSORES FASCINANTES&nbsp;</p><p>algusto cury</p><p>ANJOS E DEMONIOS&nbsp;</p><p>dawn brau</p><p>CRIPTOGRAFIA</p><p>dawn brau</p><p>A CABANA</p><p>nao me lembro o nome do escritor</p><p>BIBLIA</p><p>DE GENES ATE MARCOS</p><p>ANATOMIA DO CEREBRO</p><p>R.M.machado</p><p>livro de JAVA faculdade</p><p>livro da oraculo&nbsp;</p><p>estava lendo livro de introdu�ao de objeto</p><p><br /></p><p><br /></p><p>�FILMES'que ja assit'</p><p>ALIENS&nbsp;</p><p>REGASTE DO SOLDADO HAYN</p><p>TRANSFORMES</p><p>RESIDENTE</p><p>WONDWORD</p><p>MERY POPYS</p><p>NOVI�A REBELD</p><p>FRABICA DE CHOLATE WALDSNY</p><p>SENHOR DOS ANEIS</p><p>A LENDA DA ESCALIBUR</p><p>REI LEAO</p><p>ERA DO GELO</p><p><br /></p><p>�Horas extras</p><p>toco violao&nbsp;</p><p>fa�o poemas&nbsp;</p><p><br /></p><p>�Rede sociais</p><p>email�s</p><p>moisesfdl_pbt@hotmail.com.br</p><p>moisesprobabilidade@gmail.com</p><p>facebook/moises_ferreira_de_lima/moisesfdl</p><p>twitter/moisesfdl</p><p>googlei/moisesprobabilidade</p><p>linkedimoises_ferreira_de_lima</p><p>&nbsp;======================================================================.</p><p>&lt;&lt;/xmlns::curriculum&gt;&gt;</p><p><br /></p><p>&lt;link rhef="https://www.receita.gov/documentType/curriculum/declare.irpf</p><p>br/pt/urs/eua</p>
+#include <iostream>
+#include <tchar.h>
+#include <documet.h>
+#include "curriculum.h"
+
+#define nome="moises ferreira de lima 27555115832";
+#define CPF="275.551.158-32" ;
+#define CNPJ="35.669.326/0001-90" ;
+#define RG="27.950.938-8" ;
+#define hotmail="moisesfdl_pbt@hotmail.com.br" ;
+#define gmail="moisesprobabilidade@gmail.com" ;
+#define cel="(5512)99649-7466" ;
+#define CTPS="00077646/00150" ;
+
+int main()
+{
+    public static char(case);
+	int curriculum;
+    int ctps;
+    char(curriculum);
+std::cout << "curriculum ctps: " << ctps"77646/00150" << std::endl;
+std::printf curriculum (true&&ctps="77646/00150");
+std::string DadosPessoais"curriculum" ;
+std::printf curriculum(true&&Nome="moises ferreira de lima");
+std::printf curriculum(true&&DataDeNascimento="14/05/1977"); 
+std::printf curriculum(true&&Sexo="Masculino"); 
+std::printf curriculum(true&&Civil="Divorciado");
+std::printf Endereço"curriculum"; 
+std::printf Endereço(true&&Rua="Paturi, 230"); 
+std::printf Endereço(true&&Bairro="Buquirinha II");
+std::printf Endereço(true&&Cidade"Sao Jose Campos-SP / Brasil");
+std::printf Endereço(true&&CEP="12214563");
+std::printf document(true&&CPF="275.551.158-32");
+std::printf document(true&&RG="27.950.938-8");
+std::string document(RG&&orgao"emissorSSP-SP");
+std::printf curriculum(true&&RaçaCor="branco");
+std::string Contato"curriculum";
+std::printf curriculum(true&&Celular="(5512) 99649-7466");
+std::printf curriculum(true&&E-mail="moisesfdl_pbt@hotmail.com.br");
+
+std::string QualificaçaoProfissional;
+std::string QualificaçaoProfissional"estoquista"; 
+std::string QualificaçaoProfissional"conferente";
+std::string QualificaçaoProfissional"repositor";
+std::string QualificaçaoProfissional"precificaçao de loja"; 
+std::string QualificaçaoProfissional"cadastro de codigo de mercadoria"; 
+std::string QualificaçaoProfissional"participante da CIPA"; 
+std::string QualificaçaoProfissional"prevençao e perdas"; 
+std::string QualificaçaoProfissional"digitaçao cartazes"; 
+std::string QualificaçaoProfissional"conhecimento de office";
+std::string QualificaçaoProfissional"Windows";
+
+std::string InformaçaoExtraCurricular; 
+std::string InformaçaoExtraCurricular"diesel";
+std::string InformaçaoExtraCurricular"osran";
+std::string InformaçaoExtraCurricular"haldex";
+std::string InformaçaoExtraCurricular"Informatica avançada intermediario";
+std::string InformaçaoExtraCurricular"Java";
+std::string InformaçaoExtraCurricular"xml";
+std::string InformaçaoExtraCurricular"html";
+std::string InformaçaoExtraCurricular"sistemasWindows";
+std::string Idioma"Portugues Fluente";
+std::string Idioma"Ingles Intermediario";
+
+
+
+std::string InformaçaoExperienciaProfissional;
+std::string InformaçaoExperienciaProfissional"estoquista";
+std::string InformaçaoExperienciaProfissional"repositor";
+std::string InformaçaoExperienciaProfissional"atendimento ao client";
+std::string InformaçaoExperienciaProfissional"cobrador";
+std::string InformaçaoExperienciaProfissional"vendedor";
+std::string InformaçaoExperienciaProfissional"mecanico diesel"; 
+std::string InformaçaoExperienciaProfissional"repositor de expediçao";
+std::string InformaçaoExperienciaProfissional"conferente";
+std::string InformaçaoExperienciaProfissional"abastecedor";
+std::string InformaçaoExperienciaProfissional"instalador de cameras"; 
+std::string InformaçaoExperienciaProfissional"TTF-tecnico transaçoes de fundos"; 
+std::string InformaçaoExperienciaProfissional"TTI- tecnico transaçoes imobiliario";
+std::string InformaçaoExperienciaProfissional"corretagem da ibovespa e bovespa";
+
+std::string InformaçaoExtraCurricularPreventiva;
+std::string InformaçaoExtraCurricularPreventiva"abrigada";
+std::string InformaçaoExtraCurricularPreventiva"cipa";
+std::string InformaçaoExtraCurricularPreventiva"prevençao e perdas"; 
+std::string InformaçaoExtraCurricularPreventiva"relaçoes humanas"; 
+std::string InformaçaoExtraCurricularPreventiva"atendimento de primeiros socorros"; 
+
+std::string Complementares;
+std::printf RemuneraçaoPretendida((R$)2000a5000||$3000USdolar);
+std::string HojeEmpreendendo"disponivel pra trabalho";
+std::string CargoNivelHierarquico"AreaOperacional"; 
+std::string CargoNivelHierarquico"apto assumir responsabilidade de setor";
+
+std::string AreaDeInteresse"estudo avançado";
+std::string AreaDeInteresse"Tecnologia da Informaçao";
+std::string Observaçoes;
+std::string Observaçoes"Formaçao Academica";
+std::printf GraduaçaoMaxima"SuperiorIncompleto";
+std::printf Instituiçao"Fac. de Tecnologia Ibta";
+std::printf cidade"Sao Jose Dos Campos-sp";
+std::printf Curso"Ciencias da Computaçao"; 
+std::printf SuperiorIncompleto"matricula trancada";
+std::printf DataDeInicio"08/2014"; 
+std::printf DataDeConclusao"10/2015";
+std::printf Observaçao"pretendo continuar a estudar e avançar meu conhecimento , apenas isso"; 
+
+std::string InstituiçaoDeEnsinoTecnico; 
+std::string InstituiçaoDeEnsinoTecnico"senai";
+std::printf Curso"DesenhoIndustrial"; 
+std::printf Curso"PneumaticoHidraulico";
+std::printf NivelAcademico"Ensino Tecnico Incompleto";
+std::printf DataDeInicio"07/2001"; 
+std::printf DataDeConclusao"11/2002";
+
+std::string EnsinoPublico; 
+std::string EnsinoPublico"EEPG-joao cursino";
+std::string NivelAcademico"Ensino Medio Completo";
+std::string EnsinoPublico,DataDeInicio"01/1992"; 
+std::string EnsinoPublico,DataDeConclusao"12/1997";
+std::string EnsinoPublico"2ºGrauColegialCompleto";
+std::string EnsinoPublico,Status"Concluido";
+std::string EnsinoPublico"certificado";
+std::string EnsinoPublico"2ºGrauColegial";
+std::string certificado;
+std::string certificado"O Diretor";
+std::string certificado"E.E.S.G JOAO CURSINO"; 
+std::string certificado"De Acordo Com o Artigo 16 da lei nº 5.692/71",;
+std::string certificado" certifica que (Moises Ferreira de Lima)  ",;  
+std::string certificado"R.G.:27.950.938-8 , concluiu os estudos do 2º Grau ",;
+std::string certificado" no ano letivo de 1997 , estando apto ao prosseguimento",;
+std::string certificado" dos estudos em curso de Nivel Superior"; 
+
+std::string certificado"SECRETARIA DA ESCOLA";
+std::string certificado"data : 14/02/1998";
+
+std::string certificado"Secretario Regional ASS: Regina Celia de Azevedo RG:17.059.798";
+
+std::string certificado"Diretor Reg. ou R.G ASS: Setsuko Kotinda Yonashiro RG:5.168.2.18"; 
+
+
+std::string ExperienciaProfissional;
+std::string ExperienciaProfissional"Empresa: ATACADAO DISTRI COM IND LTDA";
+std::string ExperienciaProfissional"Segmento: Comercio Atacadista";
+std::string ExperienciaProfissional"Porte da Empresa: Grande (>500 Func.)";
+std::string ExperienciaProfissional"Data de Inicio: 02/2013"; 
+std::string ExperienciaProfissional"Data de Termino: 05/2015";
+std::string ExperienciaProfissional"Cargo: REPOSITOR E ESTOQUISTA";
+std::string ExperienciaProfissional"Atribuiçoes:"; 
+std::string ExperienciaProfissional"RELPOSITOR , CONFERENTE , ESTOQUISTA , CONFERENTE DE PRE�OS , ORGANIZA�AO";
+std::string ExperienciaProfissional"DE ESTOQUE , CARTAZISTA , ATENDIMENTO DE LOJA , E AOS DOMINGOS .";
+std::string ExperienciaProfissional"Salario:2225,00";
+
+std::string ExperienciaProfissional"Empresa: VIAÇAO REAL";
+std::string ExperienciaProfissional"Segmento: Transporte";
+std::string ExperienciaProfissional"Porte da Empresa: Grande (>500 Func.)";
+std::string ExperienciaProfissional"Data de Inicio: 01/2005"; 
+std::string ExperienciaProfissional"Data de Termino: 09/2007";
+std::string ExperienciaProfissional"Cargo: MECANICO DE MANUTENÇAO";
+std::string ExperienciaProfissional"Atribuiçoes:"; 
+std::string ExperienciaProfissional"MECANICO DE MANUTENÇAO"; 
+std::string ExperienciaProfissional" E APOS UM ANO PASSEI PRA COBRADOR COM UM";
+std::string ExperienciaProfissional"AUMENTO DE SALARIO DE R$ 398,00 PARA R$ 911,92MAS BENEFICIOS DE VR";
+std::string ExperienciaProfissional"Relaçao de emprego: Funcionario";
+std::string ExperienciaProfissional"Salario: 911,92";
+
+std::string ExperienciaProfissional"Empresa: viacao capital do vale";
+std::string ExperienciaProfissional"Segmento: Turismo";
+std::string ExperienciaProfissional"Porte da Empresa: Grande (>500 Func.)";
+std::string ExperienciaProfissional"Data de Inicio: 01/2004"; 
+std::string ExperienciaProfissional"Data de Termino: 09/2007";
+std::string ExperienciaProfissional"Cargo: auxiar mecanico";
+std::string ExperienciaProfissional"Atribuiçoes:"; 
+std::string ExperienciaProfissional"preventiva de mottores"; 
+std::string ExperienciaProfissional", troca de compressor manutencao de catraca HALDEX , PAKER";
+std::string ExperienciaProfissional"E TROCA DE CAMBIO DE ONIBUS E CAMINHOES";
+std::string ExperienciaProfissional"Relaçao de emprego: Funcionario";
+std::string ExperienciaProfissional"Salario: 425,00";
+
+
+std::string ExperienciaProfissional"Empresa: cooper hodia";
+std::string ExperienciaProfissional"Segmento: Comercio Varejista";
+std::string ExperienciaProfissional"Porte da Empresa: Grande (>500 Func.)";
+std::string ExperienciaProfissional"Data de Inicio: 10/1999"; 
+std::string ExperienciaProfissional"Data de Termino: 06/2001";
+std::string ExperienciaProfissional"Cargo: REPOSITOR";
+std::string ExperienciaProfissional"Atribuiçoes:"; 
+std::string ExperienciaProfissional"repositor e estoquista"; 
+std::string ExperienciaProfissional"conferencia de estoque e controle de estoque";
+std::string ExperienciaProfissional"Relaçao de emprego: Funcionario";
+std::string ExperienciaProfissional"Salario: 353,00";
+
+std::string ExperienciaProfissional"Empresa: mappin";
+std::string ExperienciaProfissional"Segmento: Logistica e distribuiçao";
+std::string ExperienciaProfissional"Porte da Empresa: Grande (>500 Func.)";
+std::string ExperienciaProfissional"Data de Inicio: 04/1997"; 
+std::string ExperienciaProfissional"Data de Termino: 07/1999";
+std::string ExperienciaProfissional"Cargo: REPOSITOR E CONFERENTE";
+std::string ExperienciaProfissional"Atribuiçoes:" ;
+std::string ExperienciaProfissional"organizacao de estoque e reposicao e conferencia";
+std::string ExperienciaProfissional"Relaçao de emprego: Funcion�rio";
+std::string ExperienciaProfissional"Salario: 264,00";
+
+std::string ExperienciaEmDesenvolvedorGamers"desenvolvedor de gamer"; 
+std::string ExperienciaEmDesenvolvedorGamers"resumindo : jogos resolvidos e finalizados";
+std::string ExperienciaEmDesenvolvedorGamers"meu exame psicotecnico e psicologico"; 
+std::string ExperienciaEmDesenvolvedorGamers"�Commandos & conquer todos";
+std::string ExperienciaEmDesenvolvedorGamers"�Need for speed carbon";
+std::string ExperienciaEmDesenvolvedorGamers"�Need for speed hostpursh";
+std::string ExperienciaEmDesenvolvedorGamers"�Need for speed wanted";
+std::string ExperienciaEmDesenvolvedorGamers"�Need for speed andergraud 1 e 2";
+std::string ExperienciaEmDesenvolvedorGamers"�Pro street 'ZERADO'";
+std::string ExperienciaEmDesenvolvedorGamers"�Bad company 2";
+std::string ExperienciaEmDesenvolvedorGamers"�Tom clancy�s H.A.W.X";
+std::string ExperienciaEmDesenvolvedorGamers"�Tom clancy�s  Ghost Recon Future Soldier 'zerado'";
+std::string ExperienciaEmDesenvolvedorGamers"�Comanche I , II , III , IV .";
+std::string ExperienciaEmDesenvolvedorGamers"�Americam truk'tenho uma garagem com quatro carreta'";
+std::string ExperienciaEmDesenvolvedorGamers"�NBAk mobile , nivel avan�ado liga"; 
+std::string ExperienciaEmDesenvolvedorGamers"�Rival gears sou lider hankei 'zerado' com sete carros "; 
+std::string ExperienciaEmDesenvolvedorGamers"�Real park 2 zerado stacionamento";
+std::string ExperienciaEmDesenvolvedorGamers"�PES MANAGER CLUB cheguei na liga 'crak'";
+std::string ExperienciaEmDesenvolvedorGamers"�Galaxi on fire �desenvolvendo�";
+std::string ExperienciaEmDesenvolvedorGamers"�Galaxi control 'desenvolvendo '";
+std::string ExperienciaEmDesenvolvedorGamers"�Sim�s 4 'desenvolvendo'";
+std::string ExperienciaEmDesenvolvedorGamers"�CALL DUTY medal honor 'zerado'";
+std::string ExperienciaEmDesenvolvedorGamers"�CALL DUTY black ops   'zerado'";
+std::string ExperienciaEmDesenvolvedorGamers"�CALL DUTY modern warfare 'zerado'";
+std::string ExperienciaEmDesenvolvedorGamers"�Rel racing 3 ea gamers garagem 15 milhoes com primeiro serie de nascar concluida";
+std::string ExperienciaEmDesenvolvedorGamers"�MEGAPOLIS NIVEL32 'desenvolvendo'";
+std::string ExperienciaEmDesenvolvedorGamers"�Good fear cheguei na final"; 
+std::string ExperienciaEmDesenvolvedorGamers"�APP 'math' level 21 ciencia da regra matematica";
+std::string ExperienciaEmDesenvolvedorGamers"�APACHE militar   cheguei proximo da final";
+std::string ExperienciaEmDesenvolvedorGamers"�Star craft I   'pela empresa da blizzard'";
+std::string ExperienciaEmDesenvolvedorGamers"�Star craft II  'pela empresa blizzard'";
+std::string ExperienciaEmDesenvolvedorGamers"�Granturismo 'playstation I'";
+std::string ExperienciaEmDesenvolvedorGamers"�Ace combat 'playstation I'";
+std::string ExperienciaEmDesenvolvedorGamers"�Commandos Behind Enemy Lines";
+
+std::string ExperienciaEmlivros 'que ja li'; 
+std::string ExperienciaEmlivros"Mem�rias P�stumas de Br�s Cubas";
+std::string ExperienciaEmlivros"Machado de Assis";
+std::string ExperienciaEmlivros"Iracema"; 
+std::string ExperienciaEmlivros"jose de alencar";
+std::string ExperienciaEmlivros"O alienista";
+std::string ExperienciaEmlivros"Dom casmurro";
+std::string ExperienciaEmlivros"machado de assis";
+std::string ExperienciaEmlivros"NAO LEVE A VIDA TAO SERIA";
+std::string ExperienciaEmlivros"petch";
+std::string ExperienciaEmlivros"PAIS BRILHANTES E PROFESSORES FASCINANTES"; 
+std::string ExperienciaEmlivros"algusto cury";
+std::string ExperienciaEmlivros"ANJOS E DEMONIOS"; 
+std::string ExperienciaEmlivros"dawn brau";
+std::string ExperienciaEmlivros"CRIPTOGRAFIA";
+std::string ExperienciaEmlivros"dawn brau";
+std::string ExperienciaEmlivros"A CABANA";
+std::string ExperienciaEmlivros"nao me lembro o nome do escritor";
+std::string ExperienciaEmlivros"BIBLIA";
+std::string ExperienciaEmlivros"DE GENES ATE MARCOS";
+std::string ExperienciaEmlivros"ANATOMIA DO CEREBRO";
+std::string ExperienciaEmlivros"R.M.machado";
+std::string ExperienciaEmlivros"livro de JAVA faculdade";
+std::string ExperienciaEmlivros"livro da oraculo"; 
+std::string ExperienciaEmlivros"estava lendo livro de introdu�ao de objeto";
+
+
+std::string ExperienciaEmFILMES'que ja assit';
+std::string ExperienciaEmFILMES"ALIENS"; 
+std::string ExperienciaEmFILMES"REGASTE DO SOLDADO HAYN";
+std::string ExperienciaEmFILMES"TRANSFORMES";
+std::string ExperienciaEmFILMES"RESIDENTE";
+std::string ExperienciaEmFILMES"WONDWORD";
+std::string ExperienciaEmFILMES"MERY POPYS";
+std::string ExperienciaEmFILMES"NOVI�A REBELD";
+std::string ExperienciaEmFILMES"FRABICA DE CHOLATE WALDSNY";
+std::string ExperienciaEmFILMES"SENHOR DOS ANEIS";
+std::string ExperienciaEmFILMES"A LENDA DA ESCALIBUR";
+std::string ExperienciaEmFILMES"REI LEAO";
+std::string ExperienciaEmFILMES"ERA DO GELO";
+
+std::string ExperienciaEmHorasExtras;
+std::string ExperienciaEmHorasExtras"toco violao"; 
+std::string ExperienciaEmHorasExtras"fa�o poemas"; 
+
+std::string RedeSociais;
+std::string RedeSociaisEmails"moisesfdl_pbt@hotmail.com.br";
+std::string RedeSociaisEmails"moisesprobabilidade@gmail.com";
+std::string RedeSociais"facebook/moises_ferreira_de_lima/moisesfdl";
+std::string RedeSociais"twitter/@moisesfdl";
+std::string RedeSociais"linkedin/moises_ferreira_de_lima";
+
+std::printf _Literal_("https://www.receita.gov/curriculum/declare.irpf");
+curriculum;
+}
