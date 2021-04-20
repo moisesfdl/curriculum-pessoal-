@@ -1,4 +1,4 @@
-# curriculum-pessoal-
+# curriculum-pessoal
 experiencia comprovada
 
 #include <iostream>
